@@ -1,1 +1,1 @@
-Python script to create anki flashcards from a txt file
+Python script to create anki flashcards from an excel file
